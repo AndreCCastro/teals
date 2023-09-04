@@ -15,16 +15,26 @@ At the top left of the Snap page:
 
 ![image](./images/snap_top_left.png)
 
-Select "Control". Then, from the left side of the screen, drag and drop the "When :black_flag: clicked" into the `Scripts` tab of the workspace:
+Select "Control". Then, from the left side of the screen, drag and drop the "When :flag: clicked" block into the `Scripts` tab of the workspace:
 
 ![image](./images/when_flag_clicked.png)
 
+Then, once again at the top left, select `Looks`, and drag the `say [Hello!]` block into the `Scripts` workspace. Place it beneath the green flag block so that it "attaches" beneath it. It should look like:
+
+![image](./images/attached_hello.png)
+
+Click the Green flag at the top right of the page to get your turtle (yes, it is called a turtle) to say "Hello!"
+
+![image](./images/hello_world_turtle.png)
+
 Section 3 - Snap Grid System
 ---------
+Are you already familiar with the cartesian coordinate system?
+[link to coordinate tool](https://www.desmos.com/calculator/ui4klsjued)
 
 Extra!
 ------
-If you finish the class work in this section, but want to challenge yourself, try to complete some of the activites below! :wink:
+If you finish the class work in this section, but want to challenge yourself, try to complete some of the activites below! ;)
 
 - Get the above lab to work at the press of the `a` key
 
