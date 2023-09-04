@@ -32,6 +32,8 @@ Section 3 - Snap Grid System
 Are you already familiar with the cartesian coordinate system?
 [link to coordinate tool](https://www.desmos.com/calculator/ui4klsjued)
 
+The coordinates in the Snap `scenes` run from -240 -> 240 on the x-axis, and -180 -> 180 on the y-axis.
+
 Extra!
 ------
 If you finish the class work in this section, but want to challenge yourself, try to complete some of the activites below! ;)
