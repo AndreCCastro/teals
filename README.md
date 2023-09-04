@@ -1,4 +1,4 @@
-# teals
-Teals lesson 1
+Introduction to Computer Science - Sept 5th 2023
+===============================
 
-TEST
+This is test text
