@@ -1,7 +1,7 @@
 #Introduction to Computer Science - Sept 5th 2023
 
 ##Section 1 - Algorithms
-What is an algorithm? 
+What is an algorithm?
 
 Write out the instructions for how to make a Jelly Sandwhich, step by step.
 
@@ -42,4 +42,5 @@ If you finish the class work in this section, but want to challenge yourself, tr
 
 - Get the above lab to work at the press of the `a` key
 - Create a program that allows the user to draw their own shape. This can be done with keyboard inputs / mouse clicks of any kind. The program needs to be able to clear the `stage` as well (there is a `clear` block in the `Pen` section). (Hint: you can have multiple seperate triggers for actions)
+
   ![image](./images/hint.png)
