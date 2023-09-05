@@ -33,7 +33,7 @@ If you want to confirm your knowledge of the coordiate system, feel free to take
 The coordinates in the Snap `scenes` run from -240 -> 240 on the x-axis, and -180 -> 180 on the y-axis.
 
 ### Lab 1)
-Create a program in script that draws a shape with at least 8 points when the green flag is pressed. See below image for an example:
+Create a program in snap that draws a shape with at least 8 points when the green flag is pressed. See below image for an example:
 
 ![image](./images/snap_coordinate_example.png)
 
