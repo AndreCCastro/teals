@@ -41,6 +41,7 @@ Create a program in snap that draws a shape with at least 8 points when the gree
 If you finish the class work in this section, but want to challenge yourself, try to complete some of the activites below! ;)
 
 - Get the above lab to work at the press of the `a` key
+- Create a program that draws a circle. Does not have to be a perfect circle, but it has to look convincing :)
 - Create a program that allows the user to draw their own shape. This can be done with keyboard inputs / mouse clicks of any kind. The program needs to be able to clear the `stage` as well (there is a `clear` block in the `Pen` section). (Hint: you can have multiple seperate triggers for actions)
 
   ![image](./images/hint.png)
