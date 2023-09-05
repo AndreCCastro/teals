@@ -1,14 +1,11 @@
-Introduction to Computer Science - Sept 5th 2023
-===============================
+#Introduction to Computer Science - Sept 5th 2023
 
-Section 1 - Algorithms
----------
+##Section 1 - Algorithms
 What is an algorithm? 
 
 Write out the instructions for how to make a Jelly Sandwhich, step by step.
 
-Section 2 - Snap Hello World
----------
+##Section 2 - Snap Hello World
 Open snap [https://snap.berkeley.edu/snap/snap.html](https://snap.berkeley.edu/snap/snap.html).
 
 At the top left of the Snap page:
@@ -27,8 +24,7 @@ Click the Green flag at the top right of the page to get your turtle (yes, it is
 
 ![image](./images/hello_world_turtle.png)
 
-Section 3 - Snap Grid System
----------
+##Section 3 - Snap Grid System
 Are you already familiar with the cartesian coordinate system?
 [link to coordinate tool](https://www.desmos.com/calculator/ui4klsjued)
 
@@ -39,10 +35,9 @@ The coordinates in the Snap `scenes` run from -240 -> 240 on the x-axis, and -18
 ###Lab 1)
 Create a program in script that draws a shape with at least 8 points when the green flag is pressed. See below image for an example:
 
-![image](./images/snap_coordinate_example)
+![image](./images/snap_coordinate_example.png)
 
-Extra!
-------
+##Extra!
 If you finish the class work in this section, but want to challenge yourself, try to complete some of the activites below! ;)
 
 - Get the above lab to work at the press of the `a` key
