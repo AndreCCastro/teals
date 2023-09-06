@@ -1,4 +1,4 @@
-# Introduction to Computer Science - Sept 7th 2023
+# Introduction to Computer Science - Sept 5th 2023
 
 ## Section 1 - Algorithms
 What is an algorithm?
