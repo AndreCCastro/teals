@@ -1,36 +1,32 @@
 # Introduction to Computer Science - Sept 7th 2023
 
-## Section 1 - Algorithms
-What is an algorithm?
+## Section 0 - Create an account!
+If you have not done so already, create an account with Snap! Use your `odea` emails. (If you already have an account, then just log in for now)
 
-Write out the instructions for how to spread Jelly on a piece of toast, step by step.
+![image](./images/snap_signup.png)
 
-## Section 2 - Snap Hello World
-Open snap [https://snap.berkeley.edu/snap/snap.html](https://snap.berkeley.edu/snap/snap.html).
+Once you are signed up and logged in, you can `save` your projects to snap, and `share` them as well! We will be using the `share` functionality to turn in assignments! :)
 
-At the top left of the Snap page:
+## Section 1 - More kinds of Blocks!
+First lets start with a quiz! What does the below script do when run?
 
-![image](./images/snap_top_left.png)
+![image](./images/start_of_day_quiz_1.png)
 
-Select "Control". Then, from the left side of the screen, drag and drop the "When :flag: clicked" block into the `Scripts` tab of the workspace:
+Discuss with the person sitting next to you!
 
-![image](./images/when_flag_clicked.png)
+### Reporters:
+In the `Montion` tab, scroll to the bottom of the available blocks, to find the `reporters`.
 
-Then, once again at the top left, select `Looks`, and drag the `say [Hello!]` block into the `Scripts` workspace. Place it beneath the green flag block so that it "attaches" beneath it. It should look like:
+![image](./images/reporters.png)
 
-![image](./images/attached_hello.png)
+These are a different kind of block that do not cause action to occur, but instead report values back to the user. Try clicking the checkbox next to the `x position` and `y position` reporters, and you should see that the x and y cartesian coordinates of the turtle are shown in the top left corner of the stage. Try dragging and dropping the turtle and you should see these values change.
 
-Click the Green flag at the top right of the page to get your turtle (yes, it is called a turtle) to say "Hello!"
+But what makes the `reporters` useful? They can be used as inputs! 
 
-![image](./images/hello_world_turtle.png)
+![image](./images/inputs.png)
 
-## Section 3 - Snap Grid System
-Are you already familiar with the cartesian coordinate system?
-[link to coordinate tool](https://www.desmos.com/calculator/ui4klsjued)
-
-If you want to confirm your knowledge of the coordiate system, feel free to take this test with a tool that is also built in Snap: [Peabodoy Test](https://snap.berkeley.edu/snap/snap.html#present:Username=aspiece%40gmail.com&ProjectName=PeabodyTest)
-
-The coordinates in the Snap `scenes` run from -240 -> 240 on the x-axis, and -180 -> 180 on the y-axis.
+#### Excercise 1
+**Individually**, using the `mouse x` and `mouse y` reporters, create a script that allows the user to draw by dragging thier mouse across the stage. When you are done, close your surface. 
 
 ### Lab 1)
 Create a program in snap that draws a shape with at least 7 points when the green flag is pressed. See below image for an example:
