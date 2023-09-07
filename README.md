@@ -28,16 +28,8 @@ But what makes the `reporters` useful? They can be used as inputs!
 #### Excercise 1
 **Individually**, using the `mouse x` and `mouse y` reporters, create a script that allows the user to draw by dragging thier mouse across the stage. When you are done, close your surface. 
 
-### Lab 1)
-Create a program in snap that draws a shape with at least 7 points when the green flag is pressed. See below image for an example:
+![image](./images/mouse_x_and_y.png)
 
-![image](./images/snap_coordinate_example.png)
+### Lab 1)
 
 ## Extra!
-If you finish the class work in this section, but want to challenge yourself, try to complete some of the activites below! ;)
-
-- Get the above lab to work at the press of the `a` key
-- Create a program that draws a circle. Does not have to be a perfect circle, but it has to look convincing :)
-- Create a program that allows the user to draw their own shape. This can be done with keyboard inputs / mouse clicks of any kind. The program needs to be able to clear the `stage` as well (there is a `clear` block in the `Pen` section). (Hint: you can have multiple seperate triggers for actions)
-
-  ![image](./images/hint.png)
