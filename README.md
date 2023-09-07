@@ -34,7 +34,19 @@ But what makes the `reporters` useful? They can be used as inputs!
 > 
 > ![image](./images/mouse_x_and_y.PNG)
 
-### Lab 1)
+### Lab 1 - Kaleidoscope!
 ---
+> You will be turning in this lab for credit, so remember to save it, and use the `share` option to provide the URL to us on Teams!
+
+Make a script that create a Kaleidoscope image, akin to the gif below:
+![image](./images/kaleidoscope.gif)
+
+One cursor will be following the mouse like we did in the above exercise, and the other cursors will be reflected across the x and y axis.
+
 
 ## Extra!
+
+
+## Helpful bits
+- If you can't quite read the words on the blocks, using the `Zoom blocks` tool to help make the block size larger: ![image](./images/zoom_blocks.PNG)
+- The forever blocks will run until the stop sign in the top right is pressed. This stop sign is equivalent to the `stop <...>` block: ![image](./images/stop.PNG)
